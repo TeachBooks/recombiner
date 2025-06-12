@@ -6,7 +6,7 @@
 # - toc_path: Path to the book's table of contents file.
 - html_url: https://teachbooks.io/manual/intro.html
   code_url: https://github.com/TeachBooks/manual
-  release: v1.1.1
+  release: release
   toc_path: book/_toc.yml
 - html_url: https://interactivetextbooks.tudelft.nl/risk-reliability/intro.html#
   code_url: https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability
