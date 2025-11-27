@@ -2,15 +2,15 @@
   {
     "html_url": "https://teachbooks.io/manual/intro.html",
     "code_url": "https://github.com/TeachBooks/manual",
-    "release": "v1.1.1",
+    "release": "release",
     "toc_path": "book/_toc.yml",
     "title": "TeachBooks Manual",
-    "logo": "https://raw.githubusercontent.com/TeachBooks/manual/refs/tags/v1.1.1/book/images/TeachBooks_logo.svg",
-    "author": "TeachBooks Team, built with <a href=\"https://teachbooks.io/\">TeachBooks</a> and <a href=\"https://jupyterbook.org/\">Jupyter Book</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\"></a>",
+    "logo": "https://raw.githubusercontent.com/TeachBooks/manual/refs/heads/release/book/images/TeachBooks_logo.svg",
+    "author": "TeachBooks Development Team and TeachBooks users, built with <a href=\"https://teachbooks.io/\">TeachBooks</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\"></a>",
     "toc": {
       "title": "TeachBooks Manual",
       "html_url": "https://teachbooks.io/manual/intro.html",
-      "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/book/intro.md",
+      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/book/intro.md",
       "children": [
         {
           "title": "Your First TeachBook!",
@@ -18,25 +18,25 @@
             {
               "title": "What is a TeachBook?",
               "html_url": "https://teachbooks.io/manual/intro/book.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/intro/book.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/intro/book.md",
               "children": []
             },
             {
               "title": "How can you do it?",
               "html_url": "https://teachbooks.io/manual/intro/workflow.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/intro/workflow.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/intro/workflow.md",
               "children": []
             },
             {
               "title": "It only takes 10 clicks!",
               "html_url": "https://teachbooks.io/manual/intro/template.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/intro/template.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/intro/template.md",
               "children": []
             },
             {
               "title": "You Know the Basics: What Next?",
               "html_url": "https://teachbooks.io/manual/intro/next.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/intro/next.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/intro/next.md",
               "children": []
             }
           ],
@@ -49,48 +49,55 @@
             {
               "title": "User types",
               "html_url": "https://teachbooks.io/manual/installation-and-setup/user_types.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/user_types.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/user_types.md",
               "children": []
             },
             {
               "title": "Collaboration tool: Git",
               "html_url": "https://teachbooks.io/manual/installation-and-setup/git.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/git.md",
-              "children": []
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/git.md",
+              "children": [
+                {
+                  "title": "Which git provider to choose",
+                  "html_url": "https://teachbooks.io/manual/installation-and-setup/tools.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/tools.md",
+                  "children": []
+                }
+              ]
             },
             {
               "title": "Install & authenticate required software",
               "html_url": "https://teachbooks.io/manual/installation-and-setup/overview.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/overview.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/overview.md",
               "children": [
                 {
                   "title": "Editing text: VS Code",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/vscode-setup.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/vscode-setup.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/vscode-setup.md",
                   "children": []
                 },
                 {
                   "title": "Git: GitHub Desktop / Git in VS Code",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/git-setup_local.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/git-setup_local.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/git-setup_local.md",
                   "children": []
                 },
                 {
                   "title": "Managing code-related software: Anaconda",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/anaconda.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/anaconda.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/anaconda.md",
                   "children": []
                 },
                 {
                   "title": "Combining Git Bash, VS Code and Conda",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/git_bash_conda_vs-code.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/git_bash_conda_vs-code.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/git_bash_conda_vs-code.md",
                   "children": []
                 },
                 {
                   "title": "Build your book: JupyterBook",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/jupyter-book-setup.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/jupyter-book-setup.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/jupyter-book-setup.md",
                   "children": []
                 }
               ]
@@ -98,36 +105,36 @@
             {
               "title": "Collaborative book-editing",
               "html_url": "https://teachbooks.io/manual/workflows/collaboration.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/collaboration.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/collaboration.md",
               "children": [
                 {
                   "title": "Assign task to yourself (milestones, issues)",
                   "html_url": "https://teachbooks.io/manual/workflows/milestones_issues.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/milestones_issues.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/milestones_issues.md",
                   "children": []
                 },
                 {
                   "title": "Create your own version (branching, cloning, pulling)",
                   "html_url": "https://teachbooks.io/manual/workflows/branches.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/branches.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/branches.md",
                   "children": []
                 },
                 {
                   "title": "Edit (merge conflicts, staging, committing, pushing)",
                   "html_url": "https://teachbooks.io/manual/workflows/edit_book.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/edit_book.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/edit_book.md",
                   "children": []
                 },
                 {
                   "title": "Check changes online",
                   "html_url": "https://teachbooks.io/manual/workflows/check_changes_online.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/check_changes_online.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/check_changes_online.md",
                   "children": []
                 },
                 {
                   "title": "Reviewing and combine versions (merge/pull request, merging)",
                   "html_url": "https://teachbooks.io/manual/workflows/merge_request.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/workflows/merge_request.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/workflows/merge_request.md",
                   "children": []
                 }
               ]
@@ -135,36 +142,55 @@
             {
               "title": "Organize editing team, collaboration and visibility",
               "html_url": "https://teachbooks.io/manual/installation-and-setup/collab.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/collab.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/collab.md",
               "children": []
             },
             {
-              "title": "Which git provider to choose",
-              "html_url": "https://teachbooks.io/manual/installation-and-setup/tools.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/tools.md",
-              "children": []
+              "title": "Versioning and URLs",
+              "html_url": "https://teachbooks.io/manual/installation-and-setup/versioning.html",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/versioning.md",
+              "children": [
+                {
+                  "title": "Publish version on separate (fixed) URLs",
+                  "html_url": "https://teachbooks.io/manual/installation-and-setup/versions_URLs.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/versions_URLs.md",
+                  "children": []
+                },
+                {
+                  "title": "TeachBooks versioning with changelog",
+                  "html_url": "https://teachbooks.io/manual/installation-and-setup/versioning_changelog.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/versioning_changelog.md",
+                  "children": []
+                },
+                {
+                  "title": "Publishing your book with a publisher",
+                  "html_url": "https://teachbooks.io/manual/installation-and-setup/publisher.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/publisher.md",
+                  "children": []
+                }
+              ]
             },
             {
               "title": "Copyright and Licenses checklist",
               "html_url": "https://teachbooks.io/manual/installation-and-setup/copyright.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/copyright.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/copyright.md",
               "children": [
                 {
                   "title": "Copyright Considerations",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/copyright/considerations.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/copyright/considerations.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/copyright/considerations.md",
                   "children": []
                 },
                 {
                   "title": "Licenses",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/copyright/licenses.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/copyright/licenses.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/copyright/licenses.md",
                   "children": []
                 },
                 {
                   "title": "Recommendations",
                   "html_url": "https://teachbooks.io/manual/installation-and-setup/copyright/recommendations.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/installation-and-setup/copyright/recommendations.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/installation-and-setup/copyright/recommendations.md",
                   "children": []
                 }
               ]
@@ -179,66 +205,30 @@
             {
               "title": "Overview",
               "html_url": "https://teachbooks.io/manual/features/overview.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/overview.md",
-              "children": []
-            },
-            {
-              "title": "Original Jupyter Book and Sphinx Features",
-              "html_url": "https://teachbooks.io/manual/basic-features/overview.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/overview.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/overview.md",
               "children": [
                 {
-                  "title": "Anatomy of a Jupyter Book",
-                  "html_url": "https://teachbooks.io/manual/basic-features/jupyterbook.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/jupyterbook.md",
+                  "title": "TeachBooks Python Package",
+                  "html_url": "https://teachbooks.io/manual/features/teachbooks_intro.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/teachbooks_intro.md",
                   "children": []
                 },
                 {
-                  "title": "Figures",
-                  "html_url": "https://teachbooks.io/manual/basic-features/figures.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/figures.md",
+                  "title": "Deploy Book workflow",
+                  "html_url": "https://teachbooks.io/manual/external/deploy-book-workflow/README.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/deploy-book-workflow/README.md",
                   "children": []
                 },
                 {
-                  "title": "Equations",
-                  "html_url": "https://teachbooks.io/manual/basic-features/equations.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/equations.md",
+                  "title": "TeachBooks Favourites",
+                  "html_url": "https://teachbooks.io/manual/features/favourites.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/favourites.md",
                   "children": []
                 },
                 {
-                  "title": "Videos",
-                  "html_url": "https://teachbooks.io/manual/basic-features/videos.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/videos.md",
-                  "children": []
-                },
-                {
-                  "title": "References",
-                  "html_url": "https://teachbooks.io/manual/basic-features/References.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/References.md",
-                  "children": []
-                },
-                {
-                  "title": "Code",
-                  "html_url": "https://teachbooks.io/manual/basic-features/code.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/code.md",
-                  "children": []
-                },
-                {
-                  "title": "Code blocks that produce figures",
-                  "html_url": "https://teachbooks.io/manual/basic-features/Code_block_figures.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/Code_block_figures.md",
-                  "children": []
-                },
-                {
-                  "title": "Badges, Buttons & Icons",
-                  "html_url": "https://teachbooks.io/manual/basic-features/badges.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/badges.md",
-                  "children": []
-                },
-                {
-                  "title": "Banner or Announcement",
-                  "html_url": "https://teachbooks.io/manual/basic-features/banner.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/banner.md",
+                  "title": "TeachBook Template",
+                  "html_url": "https://teachbooks.io/manual/external/template/README.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/template/README.md",
                   "children": []
                 }
               ]
@@ -246,36 +236,61 @@
             {
               "title": "Easy Editing Process",
               "html_url": "https://teachbooks.io/manual/features/easy-editing.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/easy-editing.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/easy-editing.md",
               "children": [
                 {
-                  "title": "TeachBooks template",
-                  "html_url": "https://teachbooks.io/manual/external/template/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/template/README.md",
+                  "title": "Write book fully in GitHub interface",
+                  "html_url": "https://teachbooks.io/manual/features/write_online.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/write_online.md",
                   "children": []
                 },
                 {
-                  "title": "Releasing book online",
-                  "html_url": "https://teachbooks.io/manual/external/deploy-book-workflow/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/deploy-book-workflow/README.md",
+                  "title": "Share book online for multiple versions",
+                  "html_url": "https://teachbooks.io/manual/features/release_book_online.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/release_book_online.md",
+                  "children": []
+                },
+                {
+                  "title": "Draft-Release Workflow",
+                  "html_url": "https://teachbooks.io/manual/features/draft-release.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/draft-release.md",
+                  "children": []
+                },
+                {
+                  "title": "Build pull requests from forks",
+                  "html_url": "https://teachbooks.io/manual/features/pull_request_build.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/pull_request_build.md",
                   "children": []
                 },
                 {
                   "title": "Local Server to view interactive elements locally",
                   "html_url": "https://teachbooks.io/manual/features/local_server.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/local_server.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/local_server.md",
                   "children": []
                 },
                 {
-                  "title": "(Deprecated) Share content between books using submodules",
-                  "html_url": "https://teachbooks.io/manual/external/Nested-Books/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Nested-Books/README.md",
-                  "children": []
+                  "title": "Sharing content between books in table of contents",
+                  "html_url": "https://teachbooks.io/manual/features/external_toc.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/external_toc.md",
+                  "children": [
+                    {
+                      "title": "(Deprecated) Share content between books using submodules",
+                      "html_url": "https://teachbooks.io/manual/external/Nested-Books/README.html",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Nested-Books/README.md",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "title": "Auto-updating packages",
                   "html_url": "https://teachbooks.io/manual/features/update_env.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/update_env.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/update_env.md",
+                  "children": []
+                },
+                {
+                  "title": "TeachBooks Versioning",
+                  "html_url": "https://teachbooks.io/manual/features/versioning.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/versioning.md",
                   "children": []
                 }
               ]
@@ -283,104 +298,160 @@
             {
               "title": "Additional functionality",
               "html_url": "https://teachbooks.io/manual/features/sphinx_extensions.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/sphinx_extensions.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/sphinx_extensions.md",
               "children": [
                 {
                   "title": "Download link replacer",
                   "html_url": "https://teachbooks.io/manual/external/Download-Link-Replacer/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Download-Link-Replacer/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Download-Link-Replacer/README.md",
                   "children": []
                 },
                 {
                   "title": "Multilingual book",
                   "html_url": "https://teachbooks.io/manual/external/Sphinx-launch-buttons/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Sphinx-launch-buttons/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-launch-buttons/README.md",
                   "children": []
                 },
                 {
                   "title": "Discussions in your book: Utterances",
                   "html_url": "https://teachbooks.io/manual/basic-features/utterances.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/utterances.md",
-                  "children": []
-                },
-                {
-                  "title": "Grasple",
-                  "html_url": "https://teachbooks.io/manual/external/Sphinx-Grasple-public/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Sphinx-Grasple-public/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/utterances.md",
                   "children": []
                 },
                 {
                   "title": "H5p interactive elements",
                   "html_url": "https://teachbooks.io/manual/features/h5p.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/h5p.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/h5p.md",
+                  "children": [
+                    {
+                      "title": "Examples of H5p Quizzes",
+                      "html_url": "https://teachbooks.io/manual/examples/h5p_examples.html",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/h5p_examples.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Interactive plots: plotly",
+                  "html_url": "https://teachbooks.io/manual/features/plotly.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/plotly.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Grasple",
+                  "html_url": "https://teachbooks.io/manual/external/Sphinx-Grasple-public/README.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-Grasple-public/README.md",
                   "children": []
                 },
                 {
                   "title": "Interactive HTML/JavaScript elements",
                   "html_url": "https://teachbooks.io/manual/features/HTML_javascript.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/HTML_javascript.md",
-                  "children": []
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/HTML_javascript.md",
+                  "children": [
+                    {
+                      "title": "Adding interactive HTML/JavaScript elements",
+                      "html_url": "https://teachbooks.io/manual/features/adding_HTML_elements.html",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/adding_HTML_elements.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Creating basic interactive HTML/JavaScript elements",
+                      "html_url": "https://teachbooks.io/manual/features/creating_basic_HTML_elements.html",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/creating_basic_HTML_elements.md",
+                      "children": []
+                    }
+                  ]
                 },
                 {
                   "title": "Interactive content: Run Python inside your book",
                   "html_url": "https://teachbooks.io/manual/features/live_code.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/live_code.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/live_code.md",
                   "children": [
                     {
                       "title": "Ipywidgets",
                       "html_url": "https://teachbooks.io/manual/features/widgets.html",
-                      "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/widgets.ipynb",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/widgets.ipynb",
                       "children": []
                     },
                     {
                       "title": "Exercise checking using check-answer button",
                       "html_url": "https://teachbooks.io/manual/features/exercise_checking.html",
-                      "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/exercise_checking.ipynb",
+                      "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/exercise_checking.ipynb",
                       "children": []
                     }
                   ]
+                },
+                {
+                  "title": "JupyterQuiz",
+                  "html_url": "https://teachbooks.io/manual/features/jupyterquiz.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/jupyterquiz.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Iframes",
+                  "html_url": "https://teachbooks.io/manual/external/sphinx-iframes/README.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/sphinx-iframes/README.md",
+                  "children": []
+                },
+                {
+                  "title": "PRIME applets",
+                  "html_url": "https://teachbooks.io/manual/external/Sphinx-PRIME-applets/README.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-PRIME-applets/README.md",
+                  "children": []
+                },
+                {
+                  "title": "Sphinx proof",
+                  "html_url": "https://teachbooks.io/manual/features/sphinx-proof.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/sphinx-proof.md",
+                  "children": []
+                },
+                {
+                  "title": "Sphinx exercise",
+                  "html_url": "https://teachbooks.io/manual/features/exercise.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/exercise.md",
+                  "children": []
                 }
               ]
             },
             {
               "title": "Book styling",
               "html_url": "https://teachbooks.io/manual/features/visuals.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/visuals.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/visuals.md",
               "children": [
                 {
-                  "title": "Image Inverter",
+                  "title": "Image and iframe dark mode colour inverter",
                   "html_url": "https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Sphinx-Image-Inverter/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-Image-Inverter/README.md",
                   "children": []
                 },
                 {
                   "title": "JupyterBook-Patches",
                   "html_url": "https://teachbooks.io/manual/external/JupyterBook-Patches/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/JupyterBook-Patches/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/JupyterBook-Patches/README.md",
                   "children": []
                 },
                 {
                   "title": "TU Delft theme",
                   "html_url": "https://teachbooks.io/manual/external/Sphinx-TUDelft-theme/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Sphinx-TUDelft-theme/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-TUDelft-theme/README.md",
                   "children": []
                 },
                 {
                   "title": "Rich hover over tips",
                   "html_url": "https://teachbooks.io/manual/external/teachbooks-sphinx-tippy/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/teachbooks-sphinx-tippy/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/teachbooks-sphinx-tippy/README.md",
                   "children": []
                 },
                 {
                   "title": "APA References",
                   "html_url": "https://teachbooks.io/manual/features/apa.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/apa.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/apa.md",
                   "children": []
                 },
                 {
                   "title": "Custom named colors",
                   "html_url": "https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Sphinx-Named-Colors/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Sphinx-Named-Colors/README.md",
                   "children": []
                 }
               ]
@@ -388,18 +459,86 @@
             {
               "title": "TeachBooks Student-view Features",
               "html_url": "https://teachbooks.io/manual/features/students.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/features/students.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/features/students.md",
               "children": [
                 {
                   "title": "Local Annotator Extension",
                   "html_url": "https://teachbooks.io/manual/external/annotater/README.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/annotater/README.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/annotater/README.md",
                   "children": []
                 },
                 {
                   "title": "Making comments on the website: Hypothesis",
                   "html_url": "https://teachbooks.io/manual/basic-features/hypothesis.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/basic-features/hypothesis.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/hypothesis.md",
+                  "children": []
+                }
+              ]
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        },
+        {
+          "title": "Original Jupyter Book v1 and Sphinx Features",
+          "children": [
+            {
+              "title": "Overview",
+              "html_url": "https://teachbooks.io/manual/basic-features/overview.html",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/overview.md",
+              "children": [
+                {
+                  "title": "Anatomy of a TeachBook",
+                  "html_url": "https://teachbooks.io/manual/basic-features/jupyterbook.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/jupyterbook.md",
+                  "children": []
+                },
+                {
+                  "title": "Figures",
+                  "html_url": "https://teachbooks.io/manual/basic-features/figures.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/figures.md",
+                  "children": []
+                },
+                {
+                  "title": "Equations",
+                  "html_url": "https://teachbooks.io/manual/basic-features/equations.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/equations.md",
+                  "children": []
+                },
+                {
+                  "title": "Videos",
+                  "html_url": "https://teachbooks.io/manual/basic-features/videos.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/videos.md",
+                  "children": []
+                },
+                {
+                  "title": "References",
+                  "html_url": "https://teachbooks.io/manual/basic-features/References.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/References.md",
+                  "children": []
+                },
+                {
+                  "title": "Code",
+                  "html_url": "https://teachbooks.io/manual/basic-features/code.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/code.md",
+                  "children": []
+                },
+                {
+                  "title": "Code blocks that produce figures",
+                  "html_url": "https://teachbooks.io/manual/basic-features/Code_block_figures.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/Code_block_figures.md",
+                  "children": []
+                },
+                {
+                  "title": "Badges, Buttons & Icons",
+                  "html_url": "https://teachbooks.io/manual/basic-features/badges.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/badges.md",
+                  "children": []
+                },
+                {
+                  "title": "Banner or Announcement",
+                  "html_url": "https://teachbooks.io/manual/basic-features/banner.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/basic-features/banner.md",
                   "children": []
                 }
               ]
@@ -412,58 +551,53 @@
           "title": "Examples",
           "children": [
             {
-              "title": "TeachBooks Examples",
+              "title": "Overview",
               "html_url": "https://teachbooks.io/manual/examples/overview.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/overview.md",
-              "children": []
-            },
-            {
-              "title": "Well-Structured Book",
-              "html_url": "https://teachbooks.io/manual/examples/book_structure.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/book_structure.md",
-              "children": []
-            },
-            {
-              "title": "Examples of H5p Quizzes",
-              "html_url": "https://teachbooks.io/manual/examples/h5p_examples.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/h5p_examples.md",
-              "children": []
-            },
-            {
-              "title": "Live Code (Sphinx Thebe)",
-              "html_url": "https://teachbooks.io/manual/examples/live_code.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/live_code.md",
-              "children": []
-            },
-            {
-              "title": "Programming assignment with checks",
-              "html_url": "https://teachbooks.io/manual/examples/example_gumbel.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/example_gumbel.ipynb",
-              "children": []
-            },
-            {
-              "title": "Combining theory & interactive quizzes",
-              "html_url": "https://teachbooks.io/manual/examples/theory_questions.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/theory_questions.md",
-              "children": []
-            },
-            {
-              "title": "Theory, interactive quizzes & live code",
-              "html_url": "https://teachbooks.io/manual/examples/example_quiz_interactive.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/example_quiz_interactive.ipynb",
-              "children": []
-            },
-            {
-              "title": "Coding theory, interactive quizzes & live code",
-              "html_url": "https://teachbooks.io/manual/examples/coding_theory_widgets.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/coding_theory_widgets.ipynb",
-              "children": []
-            },
-            {
-              "title": "Parametric questions",
-              "html_url": "https://teachbooks.io/manual/examples/parametric_questions.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/examples/parametric_questions.ipynb",
-              "children": []
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/overview.md",
+              "children": [
+                {
+                  "title": "Well-Structured Book",
+                  "html_url": "https://teachbooks.io/manual/examples/book_structure.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/book_structure.md",
+                  "children": []
+                },
+                {
+                  "title": "Live Code (Sphinx Thebe)",
+                  "html_url": "https://teachbooks.io/manual/examples/live_code.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/live_code.md",
+                  "children": []
+                },
+                {
+                  "title": "Programming assignment with checks",
+                  "html_url": "https://teachbooks.io/manual/examples/example_gumbel.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/example_gumbel.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Combining theory & interactive quizzes",
+                  "html_url": "https://teachbooks.io/manual/examples/theory_questions.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/theory_questions.md",
+                  "children": []
+                },
+                {
+                  "title": "Theory, interactive quizzes & live code",
+                  "html_url": "https://teachbooks.io/manual/examples/example_quiz_interactive.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/example_quiz_interactive.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Coding theory, interactive quizzes & live code",
+                  "html_url": "https://teachbooks.io/manual/examples/coding_theory_widgets.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/coding_theory_widgets.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Parametric questions",
+                  "html_url": "https://teachbooks.io/manual/examples/parametric_questions.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/examples/parametric_questions.ipynb",
+                  "children": []
+                }
+              ]
             }
           ],
           "external_url": null,
@@ -475,36 +609,42 @@
             {
               "title": "Figure syntax maker",
               "html_url": "https://teachbooks.io/manual/tools/figmaker.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/tools/figmaker.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/tools/figmaker.md",
               "children": []
             },
             {
               "title": "Scripts for automating workflow",
               "html_url": "https://teachbooks.io/manual/helper_code/intro.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/helper_code/intro.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/helper_code/intro.md",
               "children": [
                 {
                   "title": "Convert LaTeX to Markdown",
                   "html_url": "https://teachbooks.io/manual/helper_code/converter.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/helper_code/converter.md",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/helper_code/converter.md",
+                  "children": []
+                },
+                {
+                  "title": "Move images to separate hosting",
+                  "html_url": "https://teachbooks.io/manual/helper_code/move_images.html",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/helper_code/move_images.md",
                   "children": []
                 },
                 {
                   "title": "Snippit",
                   "html_url": "https://teachbooks.io/manual/external/Useful_python_code/snippit.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Useful_python_code/snippit.ipynb",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Useful_python_code/snippit.ipynb",
                   "children": []
                 },
                 {
                   "title": "Extensionchecker, filedownloader and figreturner",
                   "html_url": "https://teachbooks.io/manual/external/Useful_python_code/extensionfildownloadreturn.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Useful_python_code/extensionfildownloadreturn.ipynb",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Useful_python_code/extensionfildownloadreturn.ipynb",
                   "children": []
                 },
                 {
                   "title": "Figshrinker",
                   "html_url": "https://teachbooks.io/manual/external/Useful_python_code/figshrinker.html",
-                  "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/external/Useful_python_code/figshrinker.ipynb",
+                  "external_url": "https://github.com/TeachBooks/manual/blob/release/book/external/Useful_python_code/figshrinker.ipynb",
                   "children": []
                 }
               ]
@@ -514,30 +654,1413 @@
           "html_url": null
         },
         {
-          "title": "Miscallaneous",
+          "title": "Miscellaneous",
           "children": [
             {
               "title": "References",
               "html_url": "https://teachbooks.io/manual/references.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/references.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/references.md",
               "children": []
             },
             {
               "title": "Credits and License",
               "html_url": "https://teachbooks.io/manual/credits.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/credits.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/credits.md",
               "children": []
             },
             {
               "title": "Changelog",
               "html_url": "https://teachbooks.io/manual/changelog.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/changelog.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/changelog.md",
               "children": []
             },
             {
               "title": "Contact",
               "html_url": "https://teachbooks.io/manual/contact.html",
-              "external_url": "https://github.com/TeachBooks/manual/blob/v1.1.1/book/contact.md",
+              "external_url": "https://github.com/TeachBooks/manual/blob/release/book/contact.md",
+              "children": []
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        }
+      ]
+    }
+  },
+  {
+    "html_url": "https://mude.citg.tudelft.nl/book/2024/intro.html",
+    "code_url": "https://github.com/TUDelft-MUDE/book",
+    "release": 2024,
+    "toc_path": "book/_toc.yml",
+    "title": "MUDE textbook",
+    "logo": "https://raw.githubusercontent.com/TUDelft-MUDE/book/refs/heads/2024/book/https://files.mude.citg.tudelft.nl/MUDE_Logo-small.png",
+    "author": "MUDE Teachers and the Student Army from Delft University of Technology, built with <a href=\"https://teachbooks.tudelft.nl/\">TeachBooks</a> and <a href=\"https://jupyterbook.org/\">Jupyter Book</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\"></a>",
+    "toc": {
+      "title": "MUDE textbook",
+      "html_url": "https://mude.citg.tudelft.nl/book/2024/intro.html",
+      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/book/intro.md",
+      "children": [
+        {
+          "title": "Q1 Topics",
+          "children": [
+            {
+              "title": "1. Modelling concepts",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/modelling/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/modelling/overview.md",
+              "children": [
+                {
+                  "title": "1.1. Model classification",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/modelling/classification.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/modelling/classification.md",
+                  "children": []
+                },
+                {
+                  "title": "1.2. Model decisions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/modelling/decisions.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/modelling/decisions.md",
+                  "children": []
+                },
+                {
+                  "title": "1.3. Verification, Calibration and Validation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/modelling/validate_verify.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/modelling/validate_verify.md",
+                  "children": []
+                },
+                {
+                  "title": "1.4. Goodness of Fit",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/modelling/gof.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/modelling/gof.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2. Propagation of Uncertainty",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/overview.md",
+              "children": [
+                {
+                  "title": "2.1. Random vectors, covariance and correlation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/00a_CovCorr.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/00a_CovCorr.md",
+                  "children": []
+                },
+                {
+                  "title": "2.2. Multivariate normal distribution",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/00b_MultivariateNormal.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/00b_MultivariateNormal.md",
+                  "children": []
+                },
+                {
+                  "title": "2.3. Uncertainty Classification",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/uncertainty.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/uncertainty.md",
+                  "children": []
+                },
+                {
+                  "title": "2.4. Mean and variance propagation laws",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/01_ErrorPropagation.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/01_ErrorPropagation.md",
+                  "children": []
+                },
+                {
+                  "title": "2.5. Linear propagation laws of mean and covariance",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/propagation_uncertainty/02_LinearPropagation.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/propagation_uncertainty/02_LinearPropagation.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "3. Observation theory",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/overview.md",
+              "children": [
+                {
+                  "title": "3.1. Introduction",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/01_Introduction.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/01_Introduction.md",
+                  "children": []
+                },
+                {
+                  "title": "3.2. Least-squares estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/02_LeastSquares.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/02_LeastSquares.md",
+                  "children": [
+                    {
+                      "title": "Notebook exercise: fitting different models",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/02_LeastSquares_NB.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/02_LeastSquares_NB.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.3. Weighted least-squares estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/03_WeightedLSQ.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/03_WeightedLSQ.md",
+                  "children": [
+                    {
+                      "title": "Notebook exercise: playing with the weights",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/03_Notebook_WLS.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/03_Notebook_WLS.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.4. Best linear unbiased estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/04_BLUE.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/04_BLUE.md",
+                  "children": []
+                },
+                {
+                  "title": "3.5. Precision and confidence intervals",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/05_Precision.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/05_Precision.md",
+                  "children": [
+                    {
+                      "title": "Notebook: factors influencing precision",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/05_Notebook_ConfInt.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/05_Notebook_ConfInt.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.6. Maximum Likelihood Estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/06_MLE.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/06_MLE.md",
+                  "children": []
+                },
+                {
+                  "title": "3.7. Non-linear least-squares estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/07_NLSQ.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/07_NLSQ.md",
+                  "children": [
+                    {
+                      "title": "Notebook Gauss-Newton iteration for a point on a circle",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/07_Notebook_NLSQ.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/07_Notebook_NLSQ.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.8. Model testing",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/08_Testing.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/08_Testing.md",
+                  "children": []
+                },
+                {
+                  "title": "3.9. Hypothesis testing for Sensing and Monitoring",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/09_TestingSandM.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/09_TestingSandM.md",
+                  "children": [
+                    {
+                      "title": "Notebook exercise: which melting model is better?",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/09_Notebook_Testing.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/09_Notebook_Testing.ipynb",
+                      "children": []
+                    },
+                    {
+                      "title": "Notebook exercises: is my null hypothesis good enough?",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/09_Notebook_OMT.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/09_Notebook_OMT.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.10. Notation and formulas",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/observation_theory/99_NotationFormulas.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/observation_theory/99_NotationFormulas.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4. Numerical Modelling",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/overview.md",
+              "children": [
+                {
+                  "title": "4.1. Revision of Concepts",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/1-revision-of-concepts.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/1-revision-of-concepts.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.2. The First Derivative",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/2-derivative.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/2-derivative.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.3. Finite Difference Method",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/3-fdm-introduction.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/3-fdm-introduction.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.4. Taylor Series Expansion",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/4-taylor-series-expansion.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/4-taylor-series-expansion.ipynb",
+                  "children": [
+                    {
+                      "title": "Exercises on Taylor expansion",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/taylor-series-exercise.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/taylor-series-exercise.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "4.5. Numerical Integration",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/5-numerical-integration.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/5-numerical-integration.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.6. Initial Value Problem for ODE: single-step methods",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/6-initial-value-problem-singlestep.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/6-initial-value-problem-singlestep.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.7. Multi-step and multi-stage methods",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/7-multistep_and_multistage_methods.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/7-multistep_and_multistage_methods.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.8. Boundary-value Problems: second-order ODE",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/8-boundary-value-problem.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/8-boundary-value-problem.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.9. Treatment of Partial Differential Equations: a start",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/numerical_methods/9-starting_with_PDEs.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/numerical_methods/9-starting_with_PDEs.ipynb",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "5. Univariate Continuous Distributions",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Reminder_intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Reminder_intro.md",
+              "children": [
+                {
+                  "title": "5.1. PDF and CDF",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/PDF_CDF.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/PDF_CDF.md",
+                  "children": []
+                },
+                {
+                  "title": "5.2. Empirical Distributions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/empirical.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/empirical.md",
+                  "children": []
+                },
+                {
+                  "title": "5.3. Parametric Distributions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Param_distr.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Param_distr.md",
+                  "children": [
+                    {
+                      "title": "Revisiting Gaussian distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Gaussian.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Gaussian.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Non-Gaussian distributions",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/other_distr.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/other_distr.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Uniform distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Uniform.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Uniform.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Exponential distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Exponential.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Exponential.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Gumbel distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Gumbel.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Gumbel.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Lognormal distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Lognormal.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Lognormal.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Summary of parametric distributions",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/summary.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/summary.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "5.4. Fitting a Distribution",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/fitting.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/fitting.md",
+                  "children": [
+                    {
+                      "title": "Method of moments",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/moments.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/moments.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Maximum Likelihood Estimation",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/MLE_1.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/MLE_1.ipynb",
+                      "children": []
+                    },
+                    {
+                      "title": "Goodness of Fit",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/GOF.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/GOF.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "5.5. Parameterization of continuous distributions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/Loc-scale.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/Loc-scale.ipynb",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "6. Multivariate Distributions",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/overview.md",
+              "children": [
+                {
+                  "title": "6.1. Discrete events",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/events.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/events.md",
+                  "children": []
+                },
+                {
+                  "title": "6.2. Continuous Random Variables",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/variables.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/variables.md",
+                  "children": []
+                },
+                {
+                  "title": "6.3. Gaussian distribution",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/gaussian.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/gaussian.md",
+                  "children": []
+                },
+                {
+                  "title": "6.4. Non-Gaussian Distributions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/nongaussian.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/nongaussian.md",
+                  "children": []
+                },
+                {
+                  "title": "6.5. Designing with Probability",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/design.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/design.md",
+                  "children": [
+                    {
+                      "title": "One Random Variable",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/design/one-random-variable.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/design/one-random-variable.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Two Random Variables",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/multivariate/design/two-random-variables.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/multivariate/design/two-random-variables.md",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        },
+        {
+          "title": "Q2 Topics",
+          "children": [
+            {
+              "title": "1. PDEs and the Finite Volume Method",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fvm/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/intro.md",
+              "children": [
+                {
+                  "title": "1.1. Getting Started",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fvm/getting_started_new.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/getting_started_new.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "1.2. Finite Volume Method",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fvm/fvm.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/fvm.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "1.3. Advection",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fvm/advection_1.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/advection_1.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "1.4. Unstructured meshes",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fvm/unstructured_meshes.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/unstructured_meshes.ipynb",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2. Finite Element Method",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/intro.md",
+              "children": [
+                {
+                  "title": "2.1. Strong form of the 1D Poisson equation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/strong.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/strong.md",
+                  "children": []
+                },
+                {
+                  "title": "2.2. From strong to weak form",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/weak.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/weak.md",
+                  "children": []
+                },
+                {
+                  "title": "2.3. From weak to discrete form",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/discrete.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/discrete.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "2.4. Finite element implementation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/matrix.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/matrix.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "2.5. Elements and shape functions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/shape.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/shape.md",
+                  "children": []
+                },
+                {
+                  "title": "2.6. Numerical integration",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/numerical_integration.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/numerical_integration.md",
+                  "children": []
+                },
+                {
+                  "title": "2.7. Poisson equation in 2D",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/poisson2d.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/poisson2d.md",
+                  "children": []
+                },
+                {
+                  "title": "2.8. Isoparametric mapping",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fem/isoparametric_mapping.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fem/isoparametric_mapping.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "3. Signal Processing",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/intro.md",
+              "children": [
+                {
+                  "title": "3.1. Fourier Series",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/fourier_real.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/fourier_real.md",
+                  "children": [
+                    {
+                      "title": "Square wave example",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/fourier_nb.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/fourier_nb.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "3.2. Complex Fourier Series",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/fourier_complex.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/fourier_complex.md",
+                  "children": []
+                },
+                {
+                  "title": "3.3. Fourier Transform",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/fourier_transf.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/fourier_transf.md",
+                  "children": []
+                },
+                {
+                  "title": "3.4. Sampling",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/sampling.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/sampling.md",
+                  "children": []
+                },
+                {
+                  "title": "3.5. Discrete Fourier Transform",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/dft.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/dft.md",
+                  "children": []
+                },
+                {
+                  "title": "3.6. Spectral Estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/spectral_est.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/spectral_est.md",
+                  "children": []
+                },
+                {
+                  "title": "3.7. Supplementary Videos",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/signal/videos.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/signal/videos.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4. Time Series Analysis",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/intro.md",
+              "children": [
+                {
+                  "title": "4.1. Components of time series",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/components.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/components.md",
+                  "children": [
+                    {
+                      "title": "Components of time series",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/exercise1.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/exercise1.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "4.2. Noise and stochastic model",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/noise.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/noise.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "4.3. Modelling and Estimation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/modelling.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/modelling.md",
+                  "children": [
+                    {
+                      "title": "Time series modelling",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/fit_BLUE.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/fit_BLUE.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "4.4. Time Series Stationarity",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/stationarity.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/stationarity.md",
+                  "children": []
+                },
+                {
+                  "title": "4.5. Autocovariance function",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/acf.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/acf.md",
+                  "children": []
+                },
+                {
+                  "title": "4.6. Autoregressive process",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/ar.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/ar.ipynb",
+                  "children": [
+                    {
+                      "title": "Fit AR(p) model",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/ar_exercise.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/ar_exercise.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "4.7. Forecasting",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/time_series/forecasting.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/time_series/forecasting.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "5. Optimization",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/overview.md",
+              "children": [
+                {
+                  "title": "5.1. Optimization origins",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/origins.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/origins.md",
+                  "children": []
+                },
+                {
+                  "title": "5.2. Optimization basics",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/general.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/general.md",
+                  "children": []
+                },
+                {
+                  "title": "5.3. Taxonomy of optimization models",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/taxonomy.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/taxonomy.md",
+                  "children": []
+                },
+                {
+                  "title": "5.4. Example Linear Programming",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/sand_and_clay.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/sand_and_clay.md",
+                  "children": [
+                    {
+                      "title": "Implementation in Python",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/claysand.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/claysand.ipynb",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "5.5. Augmented form of a mathematical program",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/augmented_form.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/augmented_form.md",
+                  "children": []
+                },
+                {
+                  "title": "5.6. SIMPLEX method",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/sand_and_clay_simplex.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/sand_and_clay_simplex.md",
+                  "children": [
+                    {
+                      "title": "Exercise 1: Simple Exercise",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/simplex_exercise.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/simplex_exercise.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Exercise 2: Cargo airplane (Optional)",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/airplane_exercise.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/airplane_exercise.md",
+                      "children": [
+                        {
+                          "title": "Cargo Airplane: Implementation in Python (Optional)",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/airplane_original.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/airplane_original.ipynb",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "5.7. Integer problems and solving with Branch-and-Bound",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/integer_programming.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/integer_programming.md",
+                  "children": []
+                },
+                {
+                  "title": "5.8. Some constraints that take advantage of integer/binary variables",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/some_constraints.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/some_constraints.md",
+                  "children": []
+                },
+                {
+                  "title": "5.9. Genetic Algorithm",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/genetic_algorithm.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/genetic_algorithm.md",
+                  "children": []
+                },
+                {
+                  "title": "5.10. Exercise: Airlines Problem (Optional)",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/airlines.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/airlines.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "5.11. Road Network Design Problem",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/project.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/project.md",
+                  "children": [
+                    {
+                      "title": "Python implementation with mixed integer linear program",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/Project_MILP.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/Project_MILP.ipynb",
+                      "children": []
+                    },
+                    {
+                      "title": "Python implementation with genetic algoritm",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/Project_GA.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/Project_GA.ipynb",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "6. Machine Learning",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/overview.md",
+              "children": [
+                {
+                  "title": "6.1. Introduction and k-Nearest Neighbors",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/knn_interactive.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/knn_interactive.md",
+                  "children": []
+                },
+                {
+                  "title": "6.2. Decision Theory",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/decision_theory_interactive.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/decision_theory_interactive.md",
+                  "children": []
+                },
+                {
+                  "title": "6.3. Linear Basis Function Models and Regularization",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/linear_models_interactive.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/linear_models_interactive.md",
+                  "children": []
+                },
+                {
+                  "title": "6.4. Stochastic Gradient Descent",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/ridge_sgd_interactive.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/ridge_sgd_interactive.md",
+                  "children": []
+                },
+                {
+                  "title": "6.5. Feedforward Neural Networks",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/nn_interactive.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/nn_interactive.md",
+                  "children": []
+                },
+                {
+                  "title": "6.6. Review and Quiz",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/ml/review.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/ml/review.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "7. Extreme Value Analysis",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/intro.md",
+              "children": [
+                {
+                  "title": "7.1. Concept of Extremes",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/extreme.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/extreme.md",
+                  "children": [
+                    {
+                      "title": "Return Period",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/RT.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/RT.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Sampling Techniques",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/sampling.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/sampling.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "7.2. Block Maxima & GEV",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/BM_GEV.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/BM_GEV.md",
+                  "children": [
+                    {
+                      "title": "Block Maxima",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/BM.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/BM.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Asymptotic Model",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/Asymptotic.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/Asymptotic.md",
+                      "children": []
+                    },
+                    {
+                      "title": "GEV Distribution",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/GEV.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/GEV.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Return Period & Design Life",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/RP_Binomial.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/RP_Binomial.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "7.3. Peak Over Threshold & GPD",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/POT_GPD.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/POT_GPD.md",
+                  "children": [
+                    {
+                      "title": "Peak Over Threshold (POT)",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/POT.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/POT.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Intermezzo: Poisson",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/Poisson.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/Poisson.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Threshold & Declustering",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/Threshold.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/Threshold.md",
+                      "children": []
+                    },
+                    {
+                      "title": "GPD: Introduction",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/GPD.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/GPD.md",
+                      "children": []
+                    },
+                    {
+                      "title": "GPD: m Return Levels",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/GPD2.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/GPD2.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Return Period & Design Life",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/RP_Poisson.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/RP_Poisson.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "7.4. Supplementary Material",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/extra.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/extra.md",
+                  "children": [
+                    {
+                      "title": "Bernoulli and Binomial",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/Bernoulli.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/Bernoulli.md",
+                      "children": []
+                    },
+                    {
+                      "title": "EVA videos",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/eva/videos.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/eva/videos.md",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "8. Risk Analysis",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/intro.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/intro.md",
+              "children": [
+                {
+                  "title": "8.1. Introduction to Risk Analysis",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-analysis/overview.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-analysis/overview.md",
+                  "children": [
+                    {
+                      "title": "Definition of Risk",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-analysis/definition.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-analysis/definition.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Steps in a Risk Analysis",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-analysis/steps.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-analysis/steps.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Risk Curve",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-analysis/risk-curves.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-analysis/risk-curves.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "8.2. Risk Evaluation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/overview.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/overview.md",
+                  "children": [
+                    {
+                      "title": "Decision Analysis",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/decision.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/decision.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Cost Benefit Analysis",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/cost-benefit.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/cost-benefit.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Economic Optimization",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/econ-optimization.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/econ-optimization.md",
+                      "children": [
+                        {
+                          "title": "Optimization Example",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/example-dike-height.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/example-dike-height.md",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Safety Standards",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/risk-evaluation/safety-standards.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/risk-evaluation/safety-standards.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "8.3. Exercises",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/exercises/overview.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/exercises/overview.md",
+                  "children": [
+                    {
+                      "title": "FN Curve",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/exercises/exercise-fn-curve.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/exercises/exercise-fn-curve.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Dam and River",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/exercises/exercise-dam.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/exercises/exercise-dam.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Paint System",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/pd/exercises/exercise-paint.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/pd/exercises/exercise-paint.md",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        },
+        {
+          "title": "Programming",
+          "children": [
+            {
+              "title": "Week 1.1: Getting Started!",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_1.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_1.md",
+              "children": [
+                {
+                  "title": "Computers and Environments",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_1/environments.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_1/environments.md",
+                  "children": [
+                    {
+                      "title": "Computers",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/computers.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/computers.md",
+                      "children": []
+                    },
+                    {
+                      "title": "Computing Environments",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/environments.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/environments.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Software Installation",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_1/install.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_1/install.md",
+                  "children": [
+                    {
+                      "title": "Install Miniconda",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/python/miniconda.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/python/miniconda.md",
+                      "children": [
+                        {
+                          "title": "Hidden Files",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/common/hidden.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/common/hidden.md",
+                          "children": []
+                        },
+                        {
+                          "title": "Command Line Interface (CLI)",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/common/cli.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/common/cli.md",
+                          "children": []
+                        },
+                        {
+                          "title": "Environment Variables (Windows)",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/common/env_vars_windows.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/common/env_vars_windows.md",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Visual Studio",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/ide/vsc.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/ide/vsc.md",
+                      "children": [
+                        {
+                          "title": "Extensions",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/ide/vsc/extensions.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/ide/vsc/extensions.md",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Files and Folders",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_1/files.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_1/files.md",
+                  "children": []
+                },
+                {
+                  "title": "Python Warmup",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_1/warmup.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_1/warmup.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 1.2: Python Topics",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_2.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_2.md",
+              "children": []
+            },
+            {
+              "title": "Week 1.3: VS Code Live Share!",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_3.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_3.md",
+              "children": [
+                {
+                  "title": "Visual Studio Live Share",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/ide/vsc/vs_live_share.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/ide/vsc/vs_live_share.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 1.4: Version control with Git!",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_4.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_4.md",
+              "children": [
+                {
+                  "title": "Version Control",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/version_control/version_control.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/version_control/version_control.md",
+                  "children": []
+                },
+                {
+                  "title": "Install git",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/install/git/intro.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/install/git/intro.md",
+                  "children": []
+                },
+                {
+                  "title": "Git workflow",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/intro.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/intro.md",
+                  "children": [
+                    {
+                      "title": "Git on GitHub",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/github.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/github.md",
+                      "children": [
+                        {
+                          "title": "Making Commits to the Remote Repository (Web IDE)",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/commits_remote.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/commits_remote.md",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Git in VS code",
+                      "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/vscode.html",
+                      "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/vscode.md",
+                      "children": [
+                        {
+                          "title": "Cloning a Repository",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/cloning.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/cloning.md",
+                          "children": []
+                        },
+                        {
+                          "title": "Making Commits to the Local Repository",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/commits_local.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/commits_local.md",
+                          "children": []
+                        },
+                        {
+                          "title": "Fetch and Pull from the Remote Repository",
+                          "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/fetch_pull.html",
+                          "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/fetch_pull.md",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 1.5: Collaboration with Git!",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_5.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_5.md",
+              "children": [
+                {
+                  "title": "Branching and merging",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/branch_merge.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/branch_merge.md",
+                  "children": []
+                },
+                {
+                  "title": "Forking",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/forking.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/forking.md",
+                  "children": []
+                },
+                {
+                  "title": "Merge conflicts",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/workflows/git/merge_conflicts.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/workflows/git/merge_conflicts.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 1.6: Errors",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_6.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_6.md",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/intro.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/intro.md",
+                  "children": []
+                },
+                {
+                  "title": "Error Types",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/error_types.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/error_types.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "The Python Traceback",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/traceback.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/traceback.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Raising errors",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/raise_errors.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/raise_errors.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Handling Errors",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/handling_errors.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/handling_errors.ipynb",
+                  "children": []
+                },
+                {
+                  "title": "Assertions",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/09/asserts.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/09/asserts.ipynb",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 1.7: OOP",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_7.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_7.md",
+              "children": [
+                {
+                  "title": "Classes and Object-Oriented Programming in Python",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-programming/book/python/oop/classes.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-programming/book/python/oop/classes.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 1.8: SymPy",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/programming/week_1_8.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/programming/week_1_8.md",
+              "children": [
+                {
+                  "title": "SymPy",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/external/learn-python/book/08/sympy.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/external/learn-python/book/08/sympy.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "Week 2.4: Gurobi installation",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/optimization/gurobi.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/optimization/gurobi.md",
+              "children": []
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        },
+        {
+          "title": "Fundamental Concepts",
+          "children": [
+            {
+              "title": "1. Vectors and matrices",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_01a_PreMath.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_01a_PreMath.md",
+              "children": []
+            },
+            {
+              "title": "2. Vector spaces",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_01b_PreMath.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_01b_PreMath.md",
+              "children": []
+            },
+            {
+              "title": "3. System of linear equations",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_01c_PreMath.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_01c_PreMath.md",
+              "children": []
+            },
+            {
+              "title": "4. Multivariate differentiation",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_02_PreMath.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_02_PreMath.md",
+              "children": []
+            },
+            {
+              "title": "5. Taylor series",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_03_PreMath.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_03_PreMath.md",
+              "children": []
+            },
+            {
+              "title": "6. Probability axioms",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/prob-background.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/prob-background.md",
+              "children": []
+            },
+            {
+              "title": "7. Random variables",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/prob-rv.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/prob-rv.md",
+              "children": []
+            },
+            {
+              "title": "8. Expectation (mean) and variance",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/00_04_MeanVar.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/00_04_MeanVar.md",
+              "children": []
+            },
+            {
+              "title": "9. Probability Tables",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/prob_tables/overview.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/prob_tables/overview.md",
+              "children": [
+                {
+                  "title": "9.1. Normal",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/prob_tables/normal.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/prob_tables/normal.md",
+                  "children": []
+                },
+                {
+                  "title": "9.2. Chi-Squared",
+                  "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/prob_tables/chi2.html",
+                  "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/prob_tables/chi2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "10. Probability in Python",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/probability/python.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/probability/python.md",
+              "children": []
+            },
+            {
+              "title": "11. Additional topics",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/fundamentals/eemc-stuff.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/fundamentals/eemc-stuff.md",
+              "children": []
+            }
+          ],
+          "external_url": null,
+          "html_url": null
+        },
+        {
+          "title": "Miscellaneous",
+          "children": [
+            {
+              "title": "References",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/references.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/references.md",
+              "children": []
+            },
+            {
+              "title": "Credits and License",
+              "html_url": "https://mude.citg.tudelft.nl/book/2024/credits.html",
+              "external_url": "https://github.com/TUDelft-MUDE/book/blob/2024/book/credits.md",
               "children": []
             }
           ],
@@ -950,73 +2473,37 @@
     }
   },
   {
-    "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/intro.html",
-    "code_url": "https://github.com/TUDelft-books/Sympy-Mechanics",
+    "html_url": "https://oit.tudelft.nl/CTB2210/2025/intro.html",
+    "code_url": "https://github.com/TUDelft-books/CTB2210",
+    "release": 2025,
     "toc_path": "book/_toc.yml",
-    "release": "main",
-    "title": "SymPy and Mechanics",
-    "logo": "https://raw.githubusercontent.com/TUDelft-books/Sympy-Mechanics/refs/heads/main/book/figures/TUDelft_logo_rgb.png",
-    "author": "Tom van Woudenberg from Delft university of Technology, built with <a href=\"https://teachbooks.tudelft.nl/\">TeachBooks</a> and <a href=\"https://jupyterbook.org/\">Jupyter Book</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\">",
+    "title": "CTB2210 - Constructiemechanica 3",
+    "logo": "https://oit.tudelft.nl/CTB2210/2025/_static/TUDelft_logo_descriptor_rgb.png",
+    "author": "Tom van Woudenberg, gemaakt met <a href=\"https://teachbooks.io\">TeachBooks</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\"></a>",
     "toc": {
-      "title": "SymPy and Mechanics",
-      "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/intro.html",
-      "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/book/intro.md",
+      "title": "CTB2210 - Constructiemechanica 3",
+      "html_url": "https://oit.tudelft.nl/CTB2210/2025/intro.html",
+      "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/book/intro.md",
       "children": [
         {
-          "title": "Generic examples Structural mechanics",
+          "title": "Vakinformatie",
           "children": [
             {
-              "title": "DV-SB-ligger",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/DV-SB-ligger.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/DV-SB-ligger.md",
+              "title": "Hoe gebruik je dit boek? 📘",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/instructies.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/instructies.md",
               "children": []
             },
             {
-              "title": "DV-SB-ligger-F",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/DV-SB-ligger-F.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/DV-SB-ligger-F.md",
+              "title": "Contactinformatie 💬",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/contact_information.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/contact_information.md",
               "children": []
             },
             {
-              "title": "DV-SOB-ligger",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/DV-SOB-ligger.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/DV-SOB-ligger.md",
-              "children": []
-            },
-            {
-              "title": "DV-SOB-ligger-met-veer",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/DV-SOB-ligger-met-veer.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/DV-SOB-ligger-met-veer.md",
-              "children": []
-            },
-            {
-              "title": "Vakwerk_SB",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/Vakwerk_SB.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/Vakwerk_SB.md",
-              "children": []
-            },
-            {
-              "title": "VGM-q-last",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Generic_examples_Structural_Mechanics/VGM-q-last.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Generic_examples_Structural_Mechanics/VGM-q-last.md",
-              "children": []
-            },
-            {
-              "title": "Het gebruik van Python bij Constructiemechanica",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Instruction/Het_gebruik_van_Python_bij_ConstructieMechanica.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Instruction/Het_gebruik_van_Python_bij_ConstructieMechanica.md",
-              "children": []
-            },
-            {
-              "title": "SymPy example for Structural Mechanics problems",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Instruction/SymPy_example_for_Structural_Mechanics_problems.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Instruction/SymPy_example_for_Structural_Mechanics_problems.md",
-              "children": []
-            },
-            {
-              "title": "Singularity functions",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Other_examples/Singularity_function_with_hinged_beam.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Other_examples/Singularity_function_with_hinged_beam.md",
+              "title": "Brightspace 📢",
+              "html_url": "https://brightspace.tudelft.nl/d2l/home/774702",
+              "external_url": null,
               "children": []
             }
           ],
@@ -1024,258 +2511,369 @@
           "html_url": null
         },
         {
-          "title": "Constructiemechanica 1",
+          "title": "Lesstof 🧑‍🏫",
           "children": [
             {
-              "title": "MVN line",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_1/TOZ%204.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_1/TOZ 4.md",
+              "title": "2 september: Statisch onbepaaldheid",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/statisch_onbepaald/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/statisch_onbepaald/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/statisch_onbepaald/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/statisch_onbepaald/instructie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/statisch_onbepaald/graad_bepalen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/statisch_onbepaald/graad_bepalen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/statisch_onbepaald/graad_bepalen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/statisch_onbepaald/graad_bepalen_2.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 3",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/statisch_onbepaald/graad_bepalen_3.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/statisch_onbepaald/graad_bepalen_3.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "3 september: MatrixFrame",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrixframe/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrixframe/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrixframe/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrixframe/instructie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrixframe/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrixframe/lesoefeningen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrixframe/lesoefeningen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrixframe/lesoefeningen_2.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 3",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrixframe/lesoefeningen_3.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrixframe/lesoefeningen_3.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4 september: Differentiaalvergelijkingen",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/instructie.ipynb",
+                  "children": [
+                    {
+                      "title": "Stelsel vergelijkingen oplossen met een grafische rekenmachine",
+                      "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/GR.html",
+                      "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/GR.md",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/lesoefeningen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/lesoefeningen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/lesoefeningen_2.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 3",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/ODE/lesoefeningen_3.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/ODE/lesoefeningen_3.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "8 september: Krachtenmethode rek",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/theorie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/theorie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/lesoefeningen.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "9 september: Krachtenmethode rek en williot",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/lesson_2.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/lesson_2.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/instructie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_vakwerk/lesoefeningen2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_vakwerk/lesoefeningen2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "10 september: Krachtenmethode balken",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_balk/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_balk/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_balk/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_balk/instructie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_balk/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_balk/lesoefeningen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_balk/lesoefeningen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_balk/lesoefeningen_2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "11 september: Krachtenmethode raamwerken",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_raamwerk/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_raamwerk/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_raamwerk/instructie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_raamwerk/instructie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_raamwerk/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_raamwerk/lesoefeningen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/krachtenmethode_raamwerk/lesoefeningen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/krachtenmethode_raamwerk/lesoefeningen_2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "15 september: TOZ",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/TOZ/opgave.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/TOZ/opgave.md",
               "children": []
+            },
+            {
+              "title": "17 september: Steunpuntszettingen en stijfheidsinvloeden",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/steunpuntszetting_stijfheden/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/steunpuntszetting_stijfheden/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie steunpuntszettingen",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/steunpuntszetting_stijfheden/theorie1.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/steunpuntszetting_stijfheden/theorie1.md",
+                  "children": []
+                },
+                {
+                  "title": "Instructie stijfheidsinvloeden",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/steunpuntszetting_stijfheden/theorie2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/steunpuntszetting_stijfheden/theorie2.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/steunpuntszetting_stijfheden/lesoefeningen.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/steunpuntszetting_stijfheden/lesoefeningen.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/steunpuntszetting_stijfheden/lesoefeningen_2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/steunpuntszetting_stijfheden/lesoefeningen_2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "18 september: Temperatuursinvloeden",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/temperatuur/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/temperatuur/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/temperatuur/theorie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/temperatuur/theorie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/temperatuur/lesoefening.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/temperatuur/lesoefening.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/temperatuur/lesoefening1.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/temperatuur/lesoefening1.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "22 september: Verplaatsingenmethode met statisch onbepaalde verplaatsingen",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaatsingenmethode/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaatsingenmethode/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaatsingenmethode/theorie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaatsingenmethode/theorie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaatsingenmethode/lesoefening.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaatsingenmethode/lesoefening.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaatsingenmethode/lesoefening2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaatsingenmethode/lesoefening2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "24 september: Verplaatsingenmethode met vrijheidsgraden",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaats2/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaats2/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaats2/theorie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaats2/theorie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 1",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaats2/lesoefening1.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaats2/lesoefening1.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening 2",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/verplaats2/lesoefening2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/verplaats2/lesoefening2.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "25 september: Matrixmethode",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrix/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrix/lesson.md",
+              "children": [
+                {
+                  "title": "Instructie",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrix/theorie.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrix/theorie.md",
+                  "children": []
+                },
+                {
+                  "title": "Begeleide oefening",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/matrix/lesoefening1.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/matrix/lesoefening1.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4 november: Tentamenopdracht",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/exam/lesson.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/exam/lesson.md",
+              "children": [
+                {
+                  "title": "Reguliere tentamenopdracht",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/exam/exam.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/exam/exam.md",
+                  "children": []
+                },
+                {
+                  "title": "Extra tentamenopdracht",
+                  "html_url": "https://oit.tudelft.nl/CTB2210/2025/exam/exam2.html",
+                  "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/exam/exam2.md",
+                  "children": []
+                }
+              ]
             }
           ],
           "external_url": null,
           "html_url": null
         },
         {
-          "title": "Constructiemechanica 3",
+          "title": "Diverse",
           "children": [
             {
-              "title": "Basisgeval college statisch onbepaald met Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/basisgeval-college-statischonbepaald-met-Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/basisgeval-college-statischonbepaald-met-Python.md",
+              "title": "Changelog 🔖",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/changelog.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/changelog.md",
               "children": []
             },
             {
-              "title": "Introductie SymPy voor Matrixframe opdracht",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/College_introductie_MatrixFrame_opdracht.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/College_introductie_MatrixFrame_opdracht.md",
+              "title": "Bronvermelding 📖",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/references.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/references.md",
               "children": []
             },
             {
-              "title": "Introductie verplaatsingenmethode",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/Introductie_verplaatsingenmethode.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/Introductie_verplaatsingenmethode.md",
-              "children": []
-            },
-            {
-              "title": "Sympy voorbeeld 1",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/Sympy_voorbeeld_1.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/Sympy_voorbeeld_1.md",
-              "children": []
-            },
-            {
-              "title": "Sympy voorbeeld 2",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/Sympy_voorbeeld_2.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/Sympy_voorbeeld_2.md",
-              "children": []
-            },
-            {
-              "title": "Sympy voorbeeld 3",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Constructiemechanica_3/Sympy_voorbeeld_3.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Constructiemechanica_3/Sympy_voorbeeld_3.md",
-              "children": []
-            }
-          ],
-          "external_url": null,
-          "html_url": null
-        },
-        {
-          "title": "Base Structural Engineering",
-          "children": [
-            {
-              "title": "Parabolic cable",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Exact_length_parabolic_cable.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Exact_length_parabolic_cable.md",
-              "children": []
-            },
-            {
-              "title": "Example Extension week 1 strain energy#",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Example_Extension_week_1_strain_energy.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Example_Extension_week_1_strain_energy.md",
-              "children": []
-            },
-            {
-              "title": "Lecture 4 exercise 1 cable",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Lecture_4_exercise_1_cable.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Lecture_4_exercise_1_cable.md",
-              "children": []
-            },
-            {
-              "title": "Taylor series",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Taylor_series.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Taylor_series.md",
-              "children": []
-            },
-            {
-              "title": "Variation of load cable",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Variation_of_load_cable.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Variation_of_load_cable.md",
-              "children": []
-            },
-            {
-              "title": "Wrinkler element definition",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Base_Structural_Engineering/Wrinkler_element_definition.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Base_Structural_Engineering/Wrinkler_element_definition.md",
-              "children": []
-            }
-          ],
-          "external_url": null,
-          "html_url": null
-        },
-        {
-          "title": "Dynamics",
-          "children": [
-            {
-              "title": "Fourier series step wise constant",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics/Fourier%20series%20step%20wise%20constant.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics/Fourier series step wise constant.md",
-              "children": []
-            }
-          ],
-          "external_url": null,
-          "html_url": null
-        },
-        {
-          "title": "Dynamics of Structures",
-          "children": [
-            {
-              "title": "CIE4140_Lecture_13_Part_1_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_1_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_1_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE4140_Lecture_13_Part_1_Python_seperate_q",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_1_Python_seperate_q.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_1_Python_seperate_q.md",
-              "children": []
-            },
-            {
-              "title": "CIE4140_Lecture_13_Part_2_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_2_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE4140_Lecture_13_Part_2_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_2_1_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_2_1_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_2_1_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_2_2_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_2_2_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_2_2_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_3_1_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_1_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_1_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_3_2_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_2_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_2_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_3_3_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_3_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_3_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_3_4_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_4_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_3_4_Python.md",
-              "children": []
-            },
-            {
-              "title": "CIE_4140_Lecture_18_Part_1_Python",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_Dynamics_of_Structures/CIE_4140_Lecture_18_Part_1_Python.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_Dynamics_of_Structures/CIE_4140_Lecture_18_Part_1_Python.md",
-              "children": []
-            }
-          ],
-          "external_url": null,
-          "html_url": null
-        },
-        {
-          "title": "Slender Structures",
-          "children": [
-            {
-              "title": "Assignment bending shear beam B",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Assignment_bending_shear_beam_B.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Assignment_bending_shear_beam_B.md",
-              "children": []
-            },
-            {
-              "title": "Beam with varying EI and q",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Beam_with_varying_EI_and_q.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Beam_with_varying_EI_and_q.md",
-              "children": []
-            },
-            {
-              "title": "Constrained bending with tension",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Constrained_bending_with_tension.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Constrained_bending_with_tension.md",
-              "children": []
-            },
-            {
-              "title": "Exampel riser model",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Example_riser_model.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Example_riser_model.md",
-              "children": []
-            },
-            {
-              "title": "Example wheel on cable dirac",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Example_wheel_on_cable_dirac.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Example_wheel_on_cable_dirac.md",
-              "children": []
-            },
-            {
-              "title": "Foundation pile",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Foundation_pile.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Foundation_pile.md",
-              "children": []
-            },
-            {
-              "title": "Park bridge 2018",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Park_bridge_2018.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Park_bridge_2018.md",
-              "children": []
-            },
-            {
-              "title": "Timoshenko beam",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Timoshenko_Beam.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Timoshenko_Beam.md",
-              "children": []
-            },
-            {
-              "title": "Timoshenko Beam element definition",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_slender_structures/Timoshenko_Beam_element_definition.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_slender_structures/Timoshenko_Beam_element_definition.md",
-              "children": []
-            }
-          ],
-          "external_url": null,
-          "html_url": null
-        },
-        {
-          "title": "Others",
-          "children": [
-            {
-              "title": "2D deep beam",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_from_others/Solution%20with%20replacement.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_from_others/Solution with replacement.md",
-              "children": []
-            },
-            {
-              "title": "2D deep beam",
-              "html_url": "https://oit.tudelft.nl/Sympy-Mechanics/main/Examples_from_others/Solution%20with%20symbols.html",
-              "external_url": "https://github.com/TUDelft-books/Sympy-Mechanics/blob/main/book/Examples_from_others/Solution with symbols.md",
+              "title": "Credits en Licentie 📚",
+              "html_url": "https://oit.tudelft.nl/CTB2210/2025/credits.html",
+              "external_url": "https://github.com/TUDelft-books/CTB2210/blob/2025/book/credits.md",
               "children": []
             }
           ],

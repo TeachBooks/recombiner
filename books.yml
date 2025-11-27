@@ -8,6 +8,10 @@
   code_url: https://github.com/TeachBooks/manual
   release: release
   toc_path: book/_toc.yml
+- html_url: https://mude.citg.tudelft.nl/book/2024/intro.html
+  code_url: https://github.com/TUDelft-MUDE/book
+  release: 2024
+  toc_path: book/_toc.yml
 - html_url: https://interactivetextbooks.tudelft.nl/risk-reliability/intro.html#
   code_url: https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability
   release: v0.1
@@ -16,10 +20,10 @@
   code_url: https://github.com/TeachBooks/HOS-workbook
   toc_path: book/_toc.yml
   release: main
-- html_url: https://oit.tudelft.nl/Sympy-Mechanics/main/intro.html
-  code_url: https://github.com/TUDelft-books/Sympy-Mechanics
+- html_url: https://oit.tudelft.nl/CTB2210/2025/intro.html
+  code_url: https://github.com/TUDelft-books/CTB2210
+  release: 2025
   toc_path: book/_toc.yml
-  release: main
 # Item in private repo, TODO add auth token when fetching from private gitlab
 # - html_url: https://teachbooks.tudelft.nl/engineering-hydrology
 #   code_url: https://gitlab.tudelft.nl/interactivetextbooks-citg/engineering-hydrology
