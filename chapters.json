@@ -693,7 +693,7 @@
     "release": 2024,
     "toc_path": "book/_toc.yml",
     "title": "MUDE textbook",
-    "logo": "https://raw.githubusercontent.com/TUDelft-MUDE/book/refs/heads/2024/book/https://files.mude.citg.tudelft.nl/MUDE_Logo-small.png",
+    "logo": "https://files.mude.citg.tudelft.nl/MUDE_Logo-small.png",
     "author": "MUDE Teachers and the Student Army from Delft University of Technology, built with <a href=\"https://teachbooks.tudelft.nl/\">TeachBooks</a> and <a href=\"https://jupyterbook.org/\">Jupyter Book</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"license noopener noreferrer\"\">CC BY 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg\" alt=\"\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg\" alt=\"\"></a>",
     "toc": {
       "title": "MUDE textbook",
