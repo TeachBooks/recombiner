@@ -219,8 +219,13 @@ async function extractLogoImageSrc(url: string): Promise<string> {
 async function deriveLogo(config: any, query: BookQuery): Promise<string> {
   let logo: string;
   if ("logo" in config) {
-    const relLogo = query.toc_path.replace("_toc.yml", config.logo);
-    logo = await makeDownloadUrl(query.code_url, query.release, relLogo);
+    // Check if logo is already an absolute URL
+    if (config.logo.startsWith("http://") || config.logo.startsWith("https://")) {
+      logo = config.logo;
+    } else {
+      const relLogo = query.toc_path.replace("_toc.yml", config.logo);
+      logo = await makeDownloadUrl(query.code_url, query.release, relLogo);
+    }
   } else if ("html_static_path" in config.sphinx.config) {
     const relLogo = config.sphinx.config.html_theme_options.logo.image_light;
     const staticPath = config.sphinx.config.html_static_path[0];
